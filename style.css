@@ -107,7 +107,7 @@ p1{
   border-radius: 30px;
   background: rgb(7, 216, 199);
   padding: 10px;
-  width: 1050px;
+  width: 1000px;
   margin: auto;
   margin-top: 120px;
   margin-bottom: 30px;
@@ -115,7 +115,7 @@ p1{
   padding-left: 30px;
   padding-right: 30px;
   border: 1px solid;
-  box-shadow: 5px 10px 8px black;
+  /* box-shadow: 5px 10px 8px black; */
 }
 
 #rcorners4{
